@@ -67,6 +67,9 @@ Subhanesh Nadar
 
 🔗 GitHub: https://github.com/Subhanesh06
 
+📄 License
+
+This project is licensed under the MIT License
 
 ⭐ Project Purpose
 
