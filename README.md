@@ -9,7 +9,7 @@ An interactive AR-powered jewellery e-commerce platform that allows users to exp
 Tanishq AR Jewellery E-Commerce is a full-stack web application designed to simulate a real-world jewellery shopping experience.
 
 It includes:
-- 🛍️ User-facing e-commerce frontend
+- 🛍️ User facing e-commerce frontend
 - 🧑‍💻 Admin dashboard for product management
 - ⚙️ Backend API for handling data
 - 🧠 AR-based jewellery try-on feature (concept/integration)
